@@ -1,5 +1,7 @@
 # EF6DBFirstDemo
 F6DBFirstDemo Original 
+
+
 == Install-Package Microsoft.SqlServer.Types		
 	Following a comment in an answer for current post, adding these two lines (preferebly to the main function) solved my problem for
 	 Console App:
